@@ -1,0 +1,44 @@
+﻿ form{
+margin-left: 20%;
+    height: 8rem;
+    width: 60vw;
+    background-color: black;
+ }
+ 
+ fieldset{
+
+    background-color: black;
+    
+      border-color: transparent;
+    display: flex;
+    height: 60%;
+    justify-content: space-between;
+ }
+legend{
+    color: aliceblue;
+    font-size: 30px;
+}
+ input{
+    width: 60%;
+    height: 100%;
+    margin: 0;
+    
+ }
+
+ button{
+    width: 10rem;
+    height: 3rem;
+    background-color:brown;
+    color: aliceblue;
+ }
+
+
+  
+ #result .tousPays{
+    border: 3px solid rgb(9, 9, 9);
+    margin-top: 1rem;
+    list-style: none;
+    width: 50%;
+    margin-left: 22%;
+    padding: 2rem;
+ }
