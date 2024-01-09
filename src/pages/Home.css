@@ -32,9 +32,10 @@ legend{
     color: aliceblue;
  }
 
-
+ 
   
  #result .tousPays{
+    
     border: 3px solid rgb(9, 9, 9);
     margin-top: 1rem;
     list-style: none;
@@ -42,3 +43,4 @@ legend{
     margin-left: 22%;
     padding: 2rem;
  }
+ 
